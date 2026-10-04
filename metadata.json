@@ -1,0 +1,6 @@
+{
+  "name": "DAKU AI",
+  "description": "All-in-one AI Assistant suite with LLM reasoning, document research, image generation, video creation, audio generation, and voice assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
